@@ -73,8 +73,6 @@
   git branch <分支名> 创建一个分支
   git checkout <分支名> 切换分支
   git merge <要被合并的分支名> 合并分支, 合并到上面checkout选中的分支上
-  <<<<<<<
-  =======
   分支冲突手动解决
   git add <文件名>
   git commit -m "提交日志" 这时不能再加文件名, 直接提交解决冲突
